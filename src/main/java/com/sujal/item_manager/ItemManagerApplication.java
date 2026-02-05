@@ -8,6 +8,7 @@ public class ItemManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ItemManagerApplication.class, args);
+		System.out.println("MY Project is Started!");
 	}
 
 }
